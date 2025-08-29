@@ -8,7 +8,7 @@ This collection contains three related course projects from Advanced Information
 
 - **TF-IDF, VSM & Term-At-A-Time Retrieval**  
   Compute TF-IDF (log tf × idf), build document vectors, implement cosine retrieval with and without normalization, visualize similarities, apply **pivot normalization**, and implement **term-at-a-time** scoring using a min-heap to retrieve top-k documents efficiently.
-
+ 
 - **Document Ranking Models (BM25, Language Model, Hybrid)**  
   Implement Okapi **BM25** (k1=1.2, b=0.75), a **Jelinek-Mercer language model** (λ=0.5), and a **hybrid** that normalizes & weights VSM/BM25/LM scores. Compare outputs, discuss normalization effects, and show that the hybrid approach typically improves relevance beyond the top-1 results.
 
